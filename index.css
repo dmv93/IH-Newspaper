@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+
+.header {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.header1 {
+    float: left;
+    height: 200px;
+    width: 30%;
+    box-sizing: border-box;
+    background-color: #ccdcff;
+}
+
+.header2 {
+    float: left;
+    height: 200px;
+    width: 40%;
+    box-sizing: border-box;
+    background-color: #ccdcff;
+}
+
+.headerTitles {
+    float: left;
+    height: 200px;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+.nav1, .nav2, .nav3, .nav4 {
+    float: left;
+    padding-right: 15px;
+    width: 10%;
+    height: 20px;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-right: 10px;
+    background-color: aqua;
+}
+
+.main {
+    padding: 70px;
+    clear: both;
+}
+
+.main1 {
+    float: left;
+    width: 50%;
+}
+.main2 {
+    float: right;
+    width: 50%;
+}
+
+.mainPri {
+    height: 200px;
+    width: 70%;
+    background-color: #ccdcff;
+}
+
+.mainSec {
+    margin-top: 10px;
+    width: 70%;
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+.mainTer {
+    width: 60%;
+}
+
+.main2pri {
+    clear: both;
+}
+
+.a1 {
+    float: left;
+    width: 35%;
+    clear: both;
+    margin-bottom: 10px;
+}
+.a2 {
+    float: right;
+    width: 55%;
+}
+
+footer {
+    clear: both;
+}
+
+.footer1, .footer2, .footer3, .footer4 {
+    float: left;
+    width: 25%;
+    padding: 30px;
+}
+
+.f1 {
+    width: 85%;
+    height: 100px;
+}
+
+.f2 {
+    width: 60%;
+    height: 50px;
+}
